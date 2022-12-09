@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c941e445-18b1-44aa-9f59-4e47125866a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MangerAccount.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
-    </list>
+    <list default="true" id="c941e445-18b1-44aa-9f59-4e47125866a7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,13 +25,14 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/baitap/MangerAccount&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -65,6 +56,18 @@
       <option name="presentableId" value="Default" />
       <updated>1668248839030</updated>
       <workItem from="1668248841226" duration="13081000" />
+      <workItem from="1668408809147" duration="349000" />
+      <workItem from="1669088731604" duration="78000" />
+      <workItem from="1669104225201" duration="210000" />
+      <workItem from="1669132376216" duration="73000" />
+      <workItem from="1669191647146" duration="618000" />
+      <workItem from="1669395947772" duration="37000" />
+      <workItem from="1669433595549" duration="43000" />
+      <workItem from="1669704111630" duration="37000" />
+      <workItem from="1669909307336" duration="31000" />
+      <workItem from="1670256424289" duration="91000" />
+      <workItem from="1670258726683" duration="466000" />
+      <workItem from="1670290707871" duration="709000" />
     </task>
     <servers />
   </component>
